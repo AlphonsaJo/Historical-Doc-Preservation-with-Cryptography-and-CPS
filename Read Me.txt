@@ -1,0 +1,24 @@
+Phase:1 Deep Learning 
+1. Best Models were Trained. Out of which, Regular CNN was chosen on the following metrics: 
+	a. Less Overfitting.
+	b. Executed and Gave the Results in a few Epochs.
+
+2. Using Camera Module, we tested the image, and found out it was fluctuating for the image of Taj Mahal, but it was able to detect it on one of its trials.
+
+------------------------------------------------------------------
+Phase:2 Computer Security
+1. Streamlit Application must be executed in command prompt. The command used for the same is as follows:
+c:\Users\"Angelina George"\AppData\Local\Programs\Python\Python312\python.exe -m streamlit run "3. ComputerSecurity.py"
+------------------
+2. ngrok needs to be executed, for secure tunneling of the application. The command for the same, which needs to be executed in ngrok.exe command prompt is as follows:
+ngrok http https://localhost:8501     
+------------------
+3. Open Wix Site. 
+The site's link is: https://x777missphobia777x.wixsite.com/cryptography-and-ste
+
+Navigate to resources. 
+Click on the button below the text "Click Here to Access the Resource"
+This will lead you to the Streamlit Application, initiated by ngrok.
+------------------
+4. Upload the image, set a password, and encode/decode the plaintext present within the image.
+------------------
