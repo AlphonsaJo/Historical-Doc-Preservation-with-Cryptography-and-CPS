@@ -9,4 +9,4 @@ weaving together Steganography, Cryptography, and Cyber-Physical Systems (CPS) i
 highlights a multifaceted approach that not only improves security measures but also, generates a thorough
 defense mechanism against various computer security threats and unauthorized accesses.
 
-This project was implemented as part of our 6th semester course project, 
+This project was implemented as part of our 6th semester course project. 
